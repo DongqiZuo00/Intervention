@@ -1,0 +1,56 @@
+{
+  "seed": 20261025,
+  "total_candidate_checks": 312,
+  "all_passed": true,
+  "interpretation": "Deterministic interval check under exact operator error budgets; not a simulation of statistical coverage.",
+  "cases": [
+    {
+      "dimension": 3,
+      "epsilon_fraction_of_gap": 0.01,
+      "candidate_count": 52,
+      "alpha_lower": 0.10133867335533855,
+      "beta_upper": 2.519452948398819,
+      "max_violation": 0.0
+    },
+    {
+      "dimension": 3,
+      "epsilon_fraction_of_gap": 0.05,
+      "candidate_count": 52,
+      "alpha_lower": 0.09193653301852367,
+      "beta_upper": 2.529127384436087,
+      "max_violation": 0.0
+    },
+    {
+      "dimension": 3,
+      "epsilon_fraction_of_gap": 0.1,
+      "candidate_count": 52,
+      "alpha_lower": 0.0755846702524109,
+      "beta_upper": 2.538730286595251,
+      "max_violation": 0.0
+    },
+    {
+      "dimension": 4,
+      "epsilon_fraction_of_gap": 0.01,
+      "candidate_count": 52,
+      "alpha_lower": 0.18873128270265624,
+      "beta_upper": 2.0105257976941666,
+      "max_violation": 0.0
+    },
+    {
+      "dimension": 4,
+      "epsilon_fraction_of_gap": 0.05,
+      "candidate_count": 52,
+      "alpha_lower": 0.18354098051810072,
+      "beta_upper": 2.032505441619421,
+      "max_violation": 0.0
+    },
+    {
+      "dimension": 4,
+      "epsilon_fraction_of_gap": 0.1,
+      "candidate_count": 52,
+      "alpha_lower": 0.15666528570019705,
+      "beta_upper": 2.0407730007883473,
+      "max_violation": 0.0
+    }
+  ]
+}
